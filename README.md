@@ -1,5 +1,6 @@
 Avizzo — Gamified Google Review Platform
 Role: Freelance Full-Stack / UI Developer Stack: Lovable Market: Quebec / French-Canadian small businesses
+ Live Site: https://avizzo.ca/
 
 The Problem
 Getting customers to leave Google reviews is a constant struggle for local businesses — standard "please leave us a review" asks have low follow-through and no incentive loop.
